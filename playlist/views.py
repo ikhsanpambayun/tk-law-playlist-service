@@ -13,7 +13,7 @@ import requests
 
 # Create your views here.
 
-url_verify = 'https://auth-law.herokuapp.com/api/verify/'
+url_verify = 'http://34.168.241.7/api/verify/'
 
 class ManagePlaylist(APIView):
 
